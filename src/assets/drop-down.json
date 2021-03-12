@@ -1,0 +1,225 @@
+{
+  "states":[
+     {
+        "state":"Andhra Pradesh",
+        "districts":[{
+           "name": "Anantapur",
+           "longitude": "77.6006",
+           "latitude": "14.6819"
+        },
+        {
+          "name": "Chittoor",
+          "longitude": "79.1003",
+          "latitude": "13.2172"
+       },
+       {
+        "name": "East Godavari",
+        "longitude": "82.0407",
+        "latitude": "17.3213"
+       },
+       {
+      "name": "Guntur",
+      "longitude": "80.4365",
+      "latitude": "16.3067"
+       },
+       {
+        "name": "Krishna",
+        "longitude": "80.7214",
+        "latitude": "16.6100"
+         }
+        ]
+     },
+     {
+        "state":"Arunachal Pradesh",
+        "districts":[
+          {
+            "name": "Tawang",
+            "longitude": "91.8594",
+            "latitude": "27.5861"
+          },
+          {
+              "name": "West Kameng",
+              "longitude": "92.3024",
+              "latitude": "27.3428"
+          },
+          {
+              "name": "East Kameng",
+              "longitude": "93.0176",
+              "latitude": "27.4231"
+          },
+          {
+              "name": "Papum Pare",
+              "longitude": "93.7029",
+              "latitude": "27.1719"
+          }
+        ]
+     },
+     {
+        "state":"Assam",
+        "districts":[
+          {
+            "name": "Charaideo",
+            "longitude": "94.8741",
+            "latitude": "26.941"
+          },
+          {
+            "name": "Chirang",
+            "longitude": "90.6394",
+            "latitude": "26.6539"
+          },
+          {
+            "name": "Darrang",
+            "longitude": "92.0273",
+            "latitude": "26.4523"
+          },
+          {
+            "name": "Dhemaji",
+            "longitude": "94.7692",
+            "latitude": "27.6087"
+          },
+          {
+            "name": "Dhubri",
+            "longitude": "89.9253",
+            "latitude": "26.1359"
+          }
+        ]
+     },
+     {
+        "state":"Bihar",
+        "districts":[
+          {
+            "name": "Bhagalpur",
+            "longitude": "86.9824",
+            "latitude": "25.3478"
+          },
+          {
+            "name": "Bhojpur",
+            "longitude": "84.5222",
+            "latitude": "25.4662"
+          },
+          {
+            "name": "Buxar",
+            "longitude": "84.1435",
+            "latitude": "25.4988"
+          },
+          {
+            "name": "Darbhanga",
+            "longitude": "86.0122",
+            "latitude": "26.0811"
+          },
+          {
+            "name": "East Champaran (Motihari)",
+            "longitude": "84.916664",
+            "latitude": "26.650000"
+          }
+        ]
+     },
+     {
+        "state":"Chandigarh (UT)",
+        "districts":[
+          {
+            "name": "Chandigarh",
+            "longitude": "76.7794",
+            "latitude": "30.7333"
+          }
+        ]
+     },
+     {
+        "state":"Chhattisgarh",
+        "districts":[
+          {
+            "name": "Balod",
+            "longitude": "81.2519",
+            "latitude": "20.7750"
+          },
+          {
+            "name": "Baloda Bazar",
+            "longitude": "82.4753",
+            "latitude": "21.5914"
+          },
+          {
+            "name": "Balrampur",
+            "longitude": "82.3018",
+            "latitude": "27.4308"
+          },
+          {
+            "name": "Bastar",
+            "longitude": "81.9535",
+            "latitude": "19.1071"
+          },
+          {
+            "name": "Bemetara",
+            "longitude": "81.5596",
+            "latitude": "21.6894"
+          }
+        ]
+     },
+     {
+        "state":"Dadra and Nagar Haveli (UT)",
+        "districts":[
+          {
+            "name": "Dadra & Nagar Haveli",
+            "longitude": "73.0641",
+            "latitude": "20.2778"
+          }
+        ]
+     },
+     {
+        "state":"Daman and Diu (UT)",
+        "districts":[
+          {
+            "name": "Daman",
+            "longitude": "72.8575",
+            "latitude": "20.4013"
+          },
+          {
+            "name": "Diu",
+            "longitude": "70.9250",
+            "latitude": "20.7216"
+          }
+        ]
+     },
+     {
+      "state":"Goa",
+      "districts":[
+        {
+          "name": "North Goa",
+          "longitude": "73.9830",
+          "latitude": "15.5163"
+        },
+        {
+          "name": "South Goa",
+          "longitude": "74.1240",
+          "latitude": "15.1177"
+        }
+      ]
+   },
+   {
+    "state":"Karnataka",
+    "districts":[
+      {
+        "name": "Bagalkot",
+        "longitude": "75.6208",
+        "latitude": "16.1357"
+      },{
+        "name": "Ballari (Bellary)",
+        "longitude": "76.5488",
+        "latitude": "15.0950"
+      },{
+        "name": "Belagavi (Belgaum)",
+        "longitude": "74.7805",
+        "latitude": "16.1681"
+      },{
+        "name": "Bengaluru (Bangalore) Rural",
+        "longitude": "77.5946",
+        "latitude": "12.9716"
+      },{
+        "name": "Bengaluru (Bangalore) Urban",
+        "longitude": " 77.5946",
+        "latitude": "12.9716"
+      }
+    ]
+ }
+
+  ]
+}

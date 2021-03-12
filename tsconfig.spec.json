@@ -4,8 +4,8 @@
     "outDir": "./out-tsc/spec",
     "types": [
       "jasmine",
-      "node"
-    ]
+      "node",
+      "googlemaps"    ]
   },
   "files": [
     "src/test.ts",

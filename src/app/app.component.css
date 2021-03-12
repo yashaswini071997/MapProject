@@ -1,0 +1,6 @@
+
+@import "~bootstrap/dist/css/bootstrap.css";
+agm-map {
+  width: 75%;
+  height: 500px;
+}
